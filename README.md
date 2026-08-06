@@ -20,13 +20,6 @@ My goal is to build a career in cybersecurity through hands-on learning and real
 
 ---
 
-## 🎯 Current Focus
-
-- 🔐 Cybersecurity
-- 🐧 Linux
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
