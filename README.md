@@ -6,9 +6,7 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Appu-13/Appu-13/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📈 GitHub Activity Graph
-
-[![Yathin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Appu-13&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Yathin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Appu-13&theme=gotham)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Appu-13/Appu-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
