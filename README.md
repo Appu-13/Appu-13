@@ -27,14 +27,6 @@ My goal is to build a career in cybersecurity through hands-on learning and real
 
 ---
 
-## 🌱 Currently Learning
-
-- Linux from Scratch
-- Computer Security Fundamentals
-- Operating System Internals
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -48,23 +40,3 @@ My goal is to build a career in cybersecurity through hands-on learning and real
 ## 📈 GitHub Activity Graph
 
 [![Yathin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Appu-13&theme=gotham)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yathin-s-9a6413330/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:yathinshivakumar06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-water >> any drink
-</p>
